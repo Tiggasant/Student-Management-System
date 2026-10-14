@@ -61,8 +61,8 @@ Maven is available through the project's Maven Wrapper if it is included in the 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Tiggasant/Student-Management-System](https://github.com/Tiggasant/Student-Management-System
-cd SpringBootCRUD
+git clone  https://github.com/Tiggasant/Student-Management-System.git
+cd Student-Management-System
 ```
 
 Replace the placeholders with your actual GitHub repository URL and project directory.
