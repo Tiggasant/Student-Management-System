@@ -198,6 +198,6 @@ Automated test coverage should be documented here after the test classes have be
 
 B.Tech in Computer Science and Engineering
 
-GitHub: Add your GitHub profile URL here
+GitHub: https://github.com/Tiggasant/Student-Management-System
 
-LinkedIn: Add your LinkedIn profile URL here
+LinkedIn: https://www.linkedin.com/in/santkumar-tiggas/?isSelfProfile=true
